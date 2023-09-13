@@ -1,7 +1,5 @@
 # Travel-App-React-Native
 
-![Image](https://cdn.dribbble.com/userupload/8935865/file/original-d12945cfd7c13ef50f9d2294d07dc53b.png?compress=1&resize=2048x1536)
-
   
   <p align="left">
     <a href="https://www.youtube.com/channel/UCILovaLl2fUPAww1bGJ4sJQ?sub_confirmation=1"><img alt="Youtube" title="Youtube"  src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
